@@ -8,3 +8,6 @@ Features
 - Powered by memes.
 ## Status
 Currently in development.
+## Wallpaper
+![MemeOS Wallpaper}
+(memeos_wallpaper.png)
