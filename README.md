@@ -6,3 +6,5 @@ Features
 - MemeOS branding
 - Custom wallpapers
 - Powered by memes.
+## Status
+Currently in development.
