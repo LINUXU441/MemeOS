@@ -1,7 +1,7 @@
 # MemeOS
 A meme-powered Linux distro Based on Ubuntu 26.04
 ## Alpha 1
-Features
+### Features
 - Ubuntu 26.04 LTS base
 - MemeOS branding
 - Custom wallpapers
@@ -9,5 +9,4 @@ Features
 ## Status
 Currently in development.
 ## Wallpaper
-![MemeOS Wallpaper}
-(memeos_wallpaper.png)
+![MemeOS Wallpaper](memeos_wallpaper.png)
